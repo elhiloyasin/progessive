@@ -21,11 +21,11 @@
 
 ## LINK TO THE REPOSITORY
 
-[Heroku](https://github.com/elhiloyasin/progressive-app)
+[Progessive-App](https://github.com/elhiloyasin/progressive-app)
 
 ## Link of Deployed application
 
-[Progessive-App](https://infinite-lowlands-94253.herokuapp.com/)
+[Heroku](https://infinite-lowlands-94253.herokuapp.com/)
 
 ## Images of Application
 
