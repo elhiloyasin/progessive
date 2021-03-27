@@ -27,7 +27,7 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 [Progessive-App](https://infinite-lowlands-94253.herokuapp.com/)
 
-## SCREENSHOTS
+## SCREENSHOTS.
 
 
 
