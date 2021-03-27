@@ -28,7 +28,7 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 - https://pure-river-76451.herokuapp.com/
 
-## SCREENSHOTS
+## SCREENSHOTS.
 
 
 
