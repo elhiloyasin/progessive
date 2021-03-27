@@ -1,7 +1,7 @@
 # Progressive-App
 
 ### Description
-This Application can be used by clonning it, open in command prompt or bash.  The purpose of this application is to save the budgets we submited to mango database while we are working online, but if we happen to be working offline the submitted budgets will be stored in indexDb that is index database which is a front end database. As soon as we find a network then the stored data at the front-end that is in the indexDb will be stored automatically to mango database.
+  The purpose of this application is to save the budgets we submited to mongodb database while we are working online, but if we happen to be working offline the submitted budgets will be stored in indexDb that is index database which is a front end database. As soon as we find a network then the stored data at the front-end that is in the indexDb will be stored automatically to mongodb database.
 
 
 
