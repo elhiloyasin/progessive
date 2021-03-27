@@ -21,7 +21,7 @@
 
 ## LINK TO THE REPOSITORY
 
-[Repository](https://github.com/elhiloyasin/progressive-app)
+[Heroku](https://github.com/elhiloyasin/progressive-app)
 
 ## Link of Deployed application
 
