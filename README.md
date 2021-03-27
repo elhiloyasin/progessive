@@ -29,9 +29,6 @@
 
 ## Images of Application
 
-
-## SCREENSHOT OF APPLICATION
-
 ![screenshotone](images/screenshotone.png)
 ![Workout-Dashboard](images/screenshotwo.png)
 
