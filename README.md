@@ -27,7 +27,14 @@
 
 [Progessive-App](https://infinite-lowlands-94253.herokuapp.com/)
 
-## SCREENSHOTS.
+## Images of Application
+
+
+## SCREENSHOT OF APPLICATION
+
+![screenshotone](images/screenshotone.png)
+![Workout-Dashboard](images/screenshotwo.png)
+
 
 
 
