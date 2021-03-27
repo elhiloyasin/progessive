@@ -21,7 +21,7 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 ## LINK TO THE REPOSITORY
 
-[Repository](https://infinite-lowlands-94253.herokuapp.com/)
+[Repository](https://github.com/elhiloyasin/progressive-app)
 
 ## Link of Deployed application
 
