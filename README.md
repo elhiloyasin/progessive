@@ -21,12 +21,11 @@ This Application can be used by clonning it, open in command prompt or bash.  Th
 
 ## LINK TO THE REPOSITORY
 
-[Progessive-App](https://infinite-lowlands-94253.herokuapp.com/)
+[Repository](https://infinite-lowlands-94253.herokuapp.com/)
 
 ## Link of Deployed application
 
-
-- https://pure-river-76451.herokuapp.com/
+[Progessive-App](https://infinite-lowlands-94253.herokuapp.com/)
 
 ## SCREENSHOTS
 
